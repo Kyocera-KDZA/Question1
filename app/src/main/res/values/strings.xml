@@ -5,34 +5,59 @@
     <string name="txtv_secondFrag">Second fragment</string>
     <string name="txtv_thirdFrag">Third fragment</string>
     <string name="txtv_infoAct">Information Activity</string>
-    <string name="txt_navHeading">Information App</string>
-    <string name="txt_navSubHeading">ITADAB34 by JWFY27ZW2</string>
-    <string name="men_home">Home</string>
-    <string name="men_frag1">First</string>
-    <string name="men_frag2">Second</string>
-    <string name="men_group1">Group 1</string>
-    <string name="men_actInfo">Info Activity</string>
-    <string name="men_act2">Activity 2</string>
-    <string name="men_frag3">Third</string>
-    <string name="men_group0">Main Menu</string>
+    <string name="txt_navHeading">Eduvos Institute</string>
+    <string name="txt_navSubHeading">Higher Certificate in Information Systems</string>
+    <string name="men_home">HCIS Machine Learning</string>
+    <string name="men_frag1">HCIS - Cloud Computing</string>
+    <string name="men_frag2">HCIS - Cyber Security</string>
+    <string name="men_group1">Support</string>
+    <string name="men_actInfo">Help</string>
+    <string name="men_act2">Give us feedback</string>
+    <string name="men_frag3">HCIS - Data Analytics</string>
+    <string name="men_group0">Higher Certificate</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
 
     <string name="homeTitle">Home Title</string>
-    <string name="homeDesc">Home Description</string>
+    <string name="homeDesc">Meaning of Eduvos
+The word Eduvos comes from the concept of your education. The “Edu” part of Eduvos talks about education and taking custodianship and responsibility. The “Vos” part of Eduvos talks about you, yourself, and your best self. The combination of Edu and Vos talks about taking responsibility for your education and making the best choice for yourself. Your education is your future.
+
+Scope and scale
+Eduvos is one of South Africa’s largest independent private higher education institutions with 12 campuses across the country and many international students. Eduvos offers 21 degrees in humanities, arts, business, applied science, technology and law. To support the learning ladder of people seeking to enter degrees we also offer Higher Certificate and Pre-degree programmes that enable access to degree programmes.
+
+Modes of delivery
+Eduvos offers a combination of programmes on campus, in blended mode and online. The wide selection of options gives students choice to experience learning in various modes of learning provide opportunities to working adults who need to upskill or reskill themselves via part-time learning.
+
+Recognition of Eduvos Degrees
+Eduvos is a degree granting private higher education institution registered with the Department of Higher Education and Training, quality assured by the Council for Higher Education and its qualifications is registered with the South African Qualifications Authority (SAQA).
+
+International relevance of education
+The registration of our degrees with SAQA ensures the international acceptance and recognition of Eduvos degrees. South African education is highly valued due to the strict quality assurance to which institutions such as Eduvos subscribe.</string>
 
     <string name="firstTitle">1 Title</string>
-    <string name="firstDesc">1 Description</string>
+    <string name="firstDesc">Higher Certificate
+Higher Certificate in Information Systems (Cloud Computing)
+The Higher Certificate in Information Systems (Cloud Computing) is a career-focused qualification that provides you with the fundamental and technical knowledge as well as the applicable skill set in Computer Hardware, Networking Technologies, IT Virtualization, Security, Cloud Concepts and various Web Services.
+Start date: 6 February 2023</string>
 
     <string name="secondTitle">2 Title</string>
-    <string name="secondDesc">2 Description</string>
+    <string name="secondDesc">Higher Certificate
+Higher Certificate in Information Systems (Cyber Security)
+The Higher Certificate in Information Systems (Cyber Security) is a career focused qualification that is intensive but also broad. It provides you with the fundamental and technical knowledge as well as the applicable skill set in Computer Hardware, Networking Technologies, Security, Penetration Testing, Cyber Security Analysis and Advanced Security Practices.</string>
 
     <string name="thirdTitle">3 Title</string>
-    <string name="thirdDesc">3 Description</string>
+    <string name="thirdDesc">Higher Certificate
+Higher Certificate in Information Systems (Data Analytics)
+The Higher Certificate in Information Systems (Data Analytics) focused on the fundamental and technical knowledge as well as the applicable skillset for Databases, Python Programming, Data Manipulation, Data Visualization, and Statistical Thinking in Python. </string>
+
+    <string name="fourthDesc">Higher Certificate
+    Higher Certificate in Information Systems (Machine Learning)
+    The Higher Certificate in Information Systems (Machine Learning) provides you with the fundamental and technical knowledge as well as the applicable skill set in Databases, Programming, Statistical Thinking, Supervised Learning, Unsupervised Learning, Linear Classifiers, and Deep Learning in Python. </string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="btn_home">Rate</string>
     <string name="iv_home">Home Image</string>
+    <string name="men_frag4">HCIS - Machine Learning</string>
 
     <string-array name="rating">
         <item>1</item>
