@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Question1</string>
+    <string name="txtv_homeFrag">Home fragment</string>
+    <string name="txtv_firstFrag">First fragment</string>
+    <string name="txtv_secondFrag">Second fragment</string>
+    <string name="txtv_thirdFrag">Third fragment</string>
+    <string name="txtv_infoAct">Information Activity</string>
+    <string name="txt_navHeading">Information App</string>
+    <string name="txt_navSubHeading">ITADAB34 by JWFY27ZW2</string>
+    <string name="men_home">Home</string>
+    <string name="men_frag1">First</string>
+    <string name="men_frag2">Second</string>
+    <string name="men_group1">Group 1</string>
+    <string name="men_actInfo">Info Activity</string>
+    <string name="men_act2">Activity 2</string>
+    <string name="men_frag3">Third</string>
+    <string name="men_group0">Main Menu</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
